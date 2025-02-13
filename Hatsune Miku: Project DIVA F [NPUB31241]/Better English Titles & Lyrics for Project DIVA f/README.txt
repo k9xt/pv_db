@@ -8,6 +8,6 @@ Status:
         - Please refrain from using until the mod is complete
 
 Known issues:
-              - Song titles & artists, even if changed in pv_db, will not be changed on the song start screen due to
-                the fact that the text there is a static image. You can replace them yourself if you want.
+              - Song titles & artists, even if changed in pv_db, will not be changed on the song start screen (where you set button sfx)
+                due to the fact that the text there is a static image. You can replace them yourself if you want.
               - Some lyrics may be cut off or overlap with other elements due to the game's ui limitations.
