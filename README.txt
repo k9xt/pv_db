@@ -1,2 +1,1 @@
-Edited pv_db.txt files for Project DIVA games
-I don't accept pull requests here
+This repository has moved to https://gitlab.com/rustybonito/pv_db
